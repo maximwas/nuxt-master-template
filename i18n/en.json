@@ -1,0 +1,14 @@
+{
+    "index": {
+      "welcome": "Welcome to the Index Page!",
+      "description": "This is the main page of our Nuxt 3 application."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Feel free to reach out to us with any questions or concerns."
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Learn more about our organization and what we do."
+    }
+  }

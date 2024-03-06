@@ -1,0 +1,14 @@
+{
+    "index": {
+      "welcome": "Bienvenue sur la page d'accueil !",
+      "description": "Ceci est la page principale de notre application Nuxt 3."
+    },
+    "contact": {
+      "title": "Nous contacter",
+      "description": "N'hésitez pas à nous contacter pour toute question ou préoccupation."
+    },
+    "about": {
+      "title": "À propos de nous",
+      "description": "En savoir plus sur notre organisation et ce que nous faisons."
+    }
+  }
